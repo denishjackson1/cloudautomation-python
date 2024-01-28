@@ -7,7 +7,7 @@ Before running the scripts, ensure you have the following:
 - Python installed on your local machine.
 - AWS credentials configured with appropriate permissions to create resources and manage IAM users and groups.
 
-## Usage
+### Usage
 Follow these steps to create an S3 bucket and add a user group with full access using Python:
 
 1. Clone the Repository:
